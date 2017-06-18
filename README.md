@@ -17,9 +17,10 @@
 直接使用序列标注的方法，进行 正向视角、中性视角和福相视角标注。
 
 ## 环境依赖
-python2.7
-numpy
-pandas
-matplotlib
-tensorflow 1.1.0(gpu version)
+
+- python2.7
+- numpy
+- pandas
+- matplotlib
+- tensorflow 1.1.0(gpu version)
 
